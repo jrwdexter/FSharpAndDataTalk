@@ -1,0 +1,30 @@
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6, .reveal p{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.green {
+  background-color: #007b89;
+}
+
+.purple {
+  background-color: #664659;
+}
+
+.gray {
+  background-color: #293c3d;
+}
+
+.green_watermark {
+  background-color: #007b89;
+  background-image: url('/images/watermark.svg') 0 0 repeat;
+}
+
+.purple_watermark {
+  background-color: #664659;
+  background-image: url('/images/watermark.svg') 0 0 repeat;
+}
+
+.gray_watermark {
+  background-color: #293c3d;
+  background-image: url('/images/watermark.svg') 0 0 repeat;
+}
